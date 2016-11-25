@@ -6,12 +6,11 @@
 /*   By: plefebvr <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/02/21 17:28:53 by plefebvr          #+#    #+#             */
-/*   Updated: 2016/03/28 11:27:34 by mkejji           ###   ########.fr       */
+/*   Updated: 2016/11/25 12:52:07 by plefebvr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "fillit.h"
-#include "libft/libft.h"
 
 int			ft_count_tetros(char *str)
 {

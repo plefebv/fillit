@@ -6,15 +6,14 @@
 /*   By: plefebvr <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/02/17 17:51:58 by plefebvr          #+#    #+#             */
-/*   Updated: 2016/03/15 17:20:14 by plefebvr         ###   ########.fr       */
+/*   Updated: 2016/11/25 12:51:24 by plefebvr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FILLIT_H
 # define FILLIT_H
-# define BUFF_SIZE 2048
 
-# include "libft/libft.h"
+# include "libft/includes/libft.h"
 # include <string.h>
 # include <unistd.h>
 # include <stdlib.h>
